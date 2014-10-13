@@ -1,7 +1,1 @@
-Git is a distributed version control system.
-Git is free software.
-
-lihaijiao  
-zhangwei
-jiangyanjie
-chengjixu
+今天星期一呀，明天星期二呀
